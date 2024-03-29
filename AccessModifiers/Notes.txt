@@ -1,3 +1,7 @@
 What are access modifiers?
 
 Keywords that define the accessibility of a member, class, field or datatype in a program used to prevent unwanted data manipulation by external programs or classes
+
+public - entire program - yes, containing class - yes, current assembly - yes, derived types - yes, derived types within assembly - yes
+
+private - entire program - no, containing class - yes, 
