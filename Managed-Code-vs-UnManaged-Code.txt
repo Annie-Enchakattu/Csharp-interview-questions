@@ -1,1 +1,3 @@
+What is managed code?
 
+Code that is written to be implemented bya managed runtime like CLR instead being directly executed by the operating system
