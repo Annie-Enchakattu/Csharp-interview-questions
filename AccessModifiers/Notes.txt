@@ -3,3 +3,9 @@ public - within the class - yes,derived class same assembly - yes, derived class
 private - within same class -yes
 
 protected - same class - yes, derived class same assembly -yes, derived class different assembly- yes, non derived class same assembly - no, non derived class different assembly - no
+
+internal - within the class - yes, derived class same assembly - yes, derived class different assembly - no, non derived class same assembly, derived class different assembly - no
+
+Protected internal -
+
+private protected - 
