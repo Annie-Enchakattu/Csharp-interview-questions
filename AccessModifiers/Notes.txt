@@ -5,3 +5,11 @@ Keywords that define the accessibility of a member, class, field or datatype in 
 public - entire program - yes, containing class - yes, current assembly - yes, derived types - yes, derived types within assembly - yes
 
 protected - entire program - no, containing class - yes, current assembly - no, derived types - yes, derived types within current assembly - yes
+
+internal - entire program - no, containing class - yes, current assembly- yes, derived types- no, derived types within current assembly- yes
+
+private - containing class only
+
+protected internal - entire program - no, containing class - yes,current assembly - yes, derived types - yes, derived types within current assembly - yes
+
+private protected - entire program- no, containing class - yes, current assembly- no, derived types - no, derived types within current assembly - yes
