@@ -1,15 +1,5 @@
-What are access modifiers?
+public - within the class - yes,derived class same assembly - yes, derived class different assembly- yes, non-derived class same assembly- yes, non-derived class different assembly- yes
 
-Keywords that define the accessibility of a member, class, field or datatype in a program used to prevent unwanted data manipulation by external programs or classes
+private - within same class -yes
 
-public - entire program - yes, containing class - yes, current assembly - yes, derived types - yes, derived types within assembly - yes
-
-protected - entire program - no, containing class - yes, current assembly - no, derived types - yes, derived types within current assembly - yes
-
-internal - entire program - no, containing class - yes, current assembly- yes, derived types- no, derived types within current assembly- yes
-
-private - containing class only
-
-protected internal - entire program - no, containing class - yes,current assembly - yes, derived types - yes, derived types within current assembly - yes
-
-private protected - entire program- no, containing class - yes, current assembly- no, derived types - no, derived types within current assembly - yes
+protected - same class - yes, derived class same assembly -yes, derived class different assembly- yes, non derived class same assembly - no, non derived class different assembly - no
