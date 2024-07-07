@@ -1,6 +1,10 @@
 Managed code
 
-Code that is written to be implemented by managed runtime like CLR instead being directly executed by the operating system
+Code that is written 
+to be implemented by 
+managed runtime like CLR 
+instead being directly 
+executed by the operating system
 
 Unmanaged code
 
