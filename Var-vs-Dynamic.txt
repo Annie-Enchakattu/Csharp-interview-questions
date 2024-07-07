@@ -1,1 +1,5 @@
+implicitly typed varisbles var - was not designed to replace normal variable declaration but for special case situations such as LINQ
 
+var variables are automatically deduced at compile time
+
+dynamic type - compiler does not check type of variable at compile type - type of variable determined at runtime
