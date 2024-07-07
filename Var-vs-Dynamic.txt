@@ -23,4 +23,12 @@ type is determined at compile type
 dynamic variables type are 
 determined at runtime
 
+implicitly typed 
+variables var should be declared
+so compiler can determine time at
+compile time
+
+dynamic variable need not be initialized as compiler does not need to know type at 
+compile time
+
 
