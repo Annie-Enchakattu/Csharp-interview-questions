@@ -6,9 +6,3 @@ managed runtime like CLR
 instead being directly 
 executed by the operating system
 
-Unmanaged code
-
-Directly executed by 
-the operating system aimed 
-at a particular processor 
-architecture
