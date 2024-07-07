@@ -31,4 +31,16 @@ compile time
 dynamic variable need not be initialized as compiler does not need to know type at 
 compile time
 
+var a = 10;
+a = "a" //will throw an error
+
+dynamic a = 10; 
+a = "a"; // does not cause error
+
+implicitly typed 
+variables var cannot be used for properties
+and returning values from functions
+
+dynamic variables can be used as properties and used a return values for functions
+
 
