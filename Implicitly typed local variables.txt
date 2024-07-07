@@ -1,1 +1,23 @@
+Declared without specifying type
+
+cannot be defined at the class level, return type in the method or as parameter value
+
+scope of the implicitly typed variable is local
+
+var invariable = 10;
+
+var a = 10, b = 20; //invalid
+
+var b;
+b = 10;
+
+var a; //invalid
+
+var a = "a";
+a = new int [] {1,2,3}; //not allowed
+
+var a = null;
+
+var a = {1,2,3}; //invalid
+var a = new int[] {1,2,3}; // allowed
 
