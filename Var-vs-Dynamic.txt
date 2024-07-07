@@ -10,3 +10,17 @@ deduced at compile time
 dynamic type - compiler 
 does not check type of 
 variable at compile type - type of variable determined at runtime
+
+implicitly typed variables 
+are declared using the var keyword
+
+dynamic variables are 
+declared with the keyword dynamic
+
+implicitly typed variables (var) 
+type is determined at compile type
+
+dynamic variables type are 
+determined at runtime
+
+
