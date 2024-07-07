@@ -1,1 +1,11 @@
+Dynamic variable- no compile time checking
+compiler gets type during runtime
+
+dynamic a = "a";
+dynamic b = 1;
+dynamic c = true; 
+
+You can get actual type of variable using GetType()
+
+c.GetType().ToString();
 
