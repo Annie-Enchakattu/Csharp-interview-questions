@@ -9,3 +9,10 @@ You can get actual type of variable using GetType()
 
 c.GetType().ToString();
 
+can pass it as parameter to a method
+
+public static void Add (dynamic a, dynamic b)
+{
+    Console.WriteLine(a + b);
+}
+
