@@ -1,0 +1,5 @@
+string[] weekDays = new string [] {"Sunday","Monday","Tuesday","Wednesday"
+,"Thursday","Friday","Saturday"};
+
+foreach(string day in weekDays)
+  Console.WriteLine(day);
