@@ -1,0 +1,2 @@
+Code directly executed by the operating system,
+designed for a specific processor architecture
